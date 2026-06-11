@@ -1,81 +1,20 @@
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    font-family:Tahoma,sans-serif;
+body {
+font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0;
+background-color: #f4f4f4; color: #333;
 }
-
-body{
-    background:#eef6ff;
+header {
+background: #4CAF50;
+color: white;
+padding: 20px 0; text-align: center;
 }
-
-.container{
-    width:90%;
-    max-width:900px;
-    margin:50px auto;
-    background:white;
-    padding:40px;
-    border-radius:20px;
-    box-shadow:0 4px 15px rgba(0,0,0,0.1);
-    text-align:center;
+header h1 {
+margin: 8；
 }
-
-h1{
-    color:#1565c0;
-    margin-bottom:20px;
+header pl
+margin: 5px 00;
 }
-
-h2{
-    margin-bottom:20px;
-}
-
-p{
-    margin:15px 0;
-    line-height:1.8;
-}
-
-.btn{
-    display:inline-block;
-    margin-top:30px;
-    padding:15px 30px;
-    background:#2196f3;
-    color:white;
-    text-decoration:none;
-    border-radius:10px;
-    font-weight:bold;
-}
-
-.btn:hover{
-    background:#1976d2;
-}
-
-.card{
-    background:#f8fbff;
-    padding:25px;
-    margin:20px 0;
-    border-radius:15px;
-    text-align:left;
-}
-
-.card h3{
-    margin-bottom:15px;
-    color:#1565c0;
-}
-
-.card ul{
-    padding-left:20px;
-}
-
-.card li{
-    margin:10px 0;
-}
-
-.btn-dark{
-    display:inline-block;
-    margin-top:20px;
-    padding:15px 30px;
-    background:#34495e;
-    color:white;
-    text-decoration:none;
-    border-radius:10px;
-}
+section {
+padding: 20px;
+margin: 20px auto; max-width: 800px;
+background: white; border-radius: 8px;
+Use Control + Shift + m to toggle the tab
