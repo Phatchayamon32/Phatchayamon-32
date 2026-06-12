@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <h2>Portfolio</h2>
+        <ul>
+            <li><a href="#home">หน้าแรก</a></li>
+            <li><a href="#about">เกี่ยวกับฉัน</a></li>
+            <li><a href="#skills">ทักษะ</a></li>
+            <li><a href="#contact">ติดต่อ</a></li>
+        </ul>
+    </nav>
+    <section id="home" class="hero">
+        <h1>สวัสดีครับ</h1>
+        <h2>ฉันชื่อ Patchaporn</h2>
+        <p>นักเรียนที่สนใจภาษาญี่ปุ่นและเทคโนโลยี</p>
+    </section>
+    <section id="about">
+        <h2>เกี่ยวกับฉัน</h2>
+        <p>
+            กำลังศึกษาภาษาญี่ปุ่น์
+            มีเป้าหมายในการเข้าศึกษาต่อในระดับมหาวิทยาลัย
+        </p>
+    </section>
+    <section id="skills">
+        <h2>ทักษะ</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Japanese Language</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>ติดต่อ</h2>
+        <p>Email: patchaporns1951@gmail.com
+        <p>GitHub: github.com/yourusername</p>
+    </section>
+    <footer>
+        <p>© 2026 My Portfolio</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
